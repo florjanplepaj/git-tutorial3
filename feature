@@ -1,1 +1,1 @@
-conflict 2
+conflict from the feature 2
